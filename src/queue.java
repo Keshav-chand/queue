@@ -59,7 +59,7 @@ public class queue{
         q.enqueue(10);
         q.enqueue(20);
         q.dequeue();
-       // q.dequeue();
+       
     }
 
 }
